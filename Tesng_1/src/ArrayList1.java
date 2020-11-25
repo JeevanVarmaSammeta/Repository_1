@@ -10,7 +10,7 @@ public class ArrayList1 {
 		List<String> Ar = new ArrayList<String>();
 		Ar.add("Apple");
 		Ar.add("Ball");
-		Ar.add("Pineapple");
+		
 		Ar.add("Cat");
 		Ar.add("");
 		Collections.sort(Ar);
